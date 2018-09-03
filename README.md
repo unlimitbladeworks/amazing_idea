@@ -14,6 +14,8 @@
 
 ## 有了想法
 1. 基于python3+以及appium实现移动端测试(趣头条APP)
+2. python的界面化读取excel生成对应sql
+3. python定时抓取github敏感信息
 
 <br>
 
@@ -44,6 +46,10 @@ Recoding
 
 ## Having idea
 1. Mobile terminal testing based on python3+ and appium
+2. Python's interface reads excel to generate corresponding SQL
+3. Python regularly grabs github sensitive information
+
+
 
 <br>
 
