@@ -17,7 +17,7 @@
 2. python的界面化读取excel生成对应sql
 3. python定时抓取github敏感信息
 4. python扫shodan弱密码,批量登录,模拟ip,截图(例如hikvision),调用shodan的API来自动化测试。
-
+5. python采集历史3D彩票信息,喂给机器学习模型(具体模型没想好!)
 <br>
 
 ## 已完成
@@ -50,7 +50,7 @@ Recoding
 2. Python's interface reads excel to generate corresponding SQL
 3. Python regularly grabs github sensitive information
 4. Python scan Shodan weak password, batch login, simulate IP, screenshots (for example, Hikvision),use shodan's API.
-
+5. Python collects the history 3D lottery information and feed it to the machine learning model.
 
 <br>
 
