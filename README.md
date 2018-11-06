@@ -20,6 +20,7 @@
 5. python采集历史3D彩票信息,喂给机器学习模型(具体模型没想好!)
 6. 基于python实现王者荣耀自动刷金币的脚本
 7. 抓取微信公众号文章,进行分析好的文章结构。
+8. scrapy系列爬虫学习
 
 <br>
 
@@ -56,6 +57,7 @@ Recoding
 5. Python collects the history 3D lottery information and feed it to the machine learning model.
 6. Python based automatic script for King glory to brush gold coins.
 7. Crawl the WeChat public article, analyze the good article structure.
+8. Learn scrapy.
 <br>
 
 ## Finished
